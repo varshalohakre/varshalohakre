@@ -1,13 +1,16 @@
 
--About Me
+
 -Hello! I'm Varsha Lohakare, currently exploring the worlds of C++ and JavaScript. 
+
 -Aspiring to become a software developer, I am pursuing a degree in computer engineering.
 -My journey in programming is driven by a passion for learning and contributing to open-source projects. 
 -I am enthusiastic about exploring different domains and technologies to broaden my understanding and skills.
 
 -Get in Touch
 -LinkedIn: https://www.linkedin.com/in/varsha-lohakare-47ab4828b
--Feel free to connect with me on LinkedIn!
+
+Feel free to connect with me on LinkedIn!
+
 -stackoverflow: https://stackoverflow.com/users/25928537/varsha-lohakare
 
 <!---
