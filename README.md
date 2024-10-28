@@ -16,7 +16,7 @@ Feel free to connect with me on LinkedIn!
 
 hacktoberfest contributor!
 holopins:- 
--(https://holopin.me/varshaa)](https://holopin.io/@varshaa)
+[![An image of @varshaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/varshaa)](https://holopin.io/@varshaa)
 
 <!---
 varshalohakre/varshalohakre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
